@@ -1,0 +1,35 @@
+<html>
+
+
+<head>
+<title>
+CYMURGHS
+</title>
+</head>
+
+
+
+<body>
+<b> <font size="6"> Takım Mentörlerimiz:</font></b>
+<h2>Minik Mentörler:</h2>
+<ul type="square">
+<li><img src="images/dinosaur.jpeg" width="100" title="yeşil dinozor" alt="Cemal Efe Gayir" border="2">
+<font color="green" face="FreeSerif" size="5"><u>Cemal Efe Gayir</u></font></li>
+<li><img src="images/fox.jpg" width="100" title="annee" alt="Tuana Aksu" border="2">
+<font color="#f4a3d4" face="Purisa, Bold" size="4"><i><u>Tuana Aksu</u></i></font></li>
+<li><img src="images/butterfly.jpeg" width="100" title="kelebek kız" alt="Ceren Özkaratay" border="2">
+<font color="orange" face="FreeSans, Bold" size="4">Ceren Özkaratay</font></li>
+<li><img src="images/duck.jpeg" width="100" title="vak vak" alt="Murat Terzioğlu" border="2">
+<font color="indigo" face="DejaVu Serif, Condensed Bold" size="4">Murat Terzioğlu</font></li>
+<li><img src="images/helikopter.jpeg" width="100" title="atak helikopteri" alt="Berkecan Koçyiğit" border="2">
+<font color="blue" face="Arial" size="4">Berkecan Koçyiğit</font></li>
+</ul>
+<br/>
+
+
+<h2>Büyük Mentörler:</h2>
+(onlara Level 10'dan sonra ulaşabiliyorsun)
+</body>
+
+
+</html>
