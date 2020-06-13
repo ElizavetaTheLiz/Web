@@ -1,0 +1,63 @@
+
+.menu1{ width: 130px; height: 160px; margin-top: 20px;}
+.menu1 ul{list-style: none; padding: 0;}
+.menu1 ul li a{ display:block; width: 125px; height: 24px; background-color: #fcc; color: chocolate; font: bold 12px Ubuntu; text-decoration: none; 
+    padding: 8px 0 0 5px;} 
+.menu1 ul li a:hover{ color:white; background: chocolate;}
+
+
+.menu2{ width: auto; height: 32px; margin-top: 50px;}
+.menu2 ul{list-style: none; padding: 0;}
+.menu2 ul li{float: left;}
+.menu2 ul li a{ display:block; width: 125px; height: 15px; background-color: #fcc; color: chocolate; font: bold 12px Ubuntu; text-decoration: none; 
+    padding: 11px 5px; text-align: center;} 
+.menu2 ul li a:hover{ color:white; background: chocolate;}
+
+
+.menu3{ width: auto; height: 32px; margin-top: 50px;}
+.menu3 ul{list-style: none; padding: 0;}
+.menu3 ul li{float: left;}
+.menu3 ul li a{ display:block; background-color: #fcc; color: chocolate; font: bold 12px Ubuntu; text-decoration: none; padding: 9px 25px; 
+    border: 1px solid salmon;} 
+.menu3 ul li a:hover{ color:white; background: chocolate; text-decoration: underline; border: 1px solid white;}
+
+
+.menu4{ width: 152px; height: 170px; margin-top: 50px;}
+.menu4 ul{list-style: none; padding: 0;}
+.menu4 ul li{ position: relative;}
+.menu4 ul li a{ display:block; width: 150px; background-color: #fcc; color: chocolate; font: bold 12px Ubuntu; text-decoration: none; padding: 9px 5px; 
+    border: 1px solid salmon;} 
+.menu4 ul li a:hover{ color:white; background: chocolate;}
+.menu4 ul li ul{display: none; position: absolute; left:162px; top: 0px;}
+.menu4 ul li:hover ul{display: block;}
+
+
+.menu5{ width: auto; height: 32px; margin-top: 50px;}
+.menu5 ul{list-style: none; padding: 0;}
+.menu5 ul li{float: left; position: relative;}
+.menu5 ul li a{ display:block; width: 125px; height: 15px; background-color: #fcc; color: chocolate; font: bold 12px Ubuntu; text-decoration: none; 
+    padding: 11px 5px; text-align: center; border:1px solid salmon;} 
+.menu5 ul li a:hover{ color:white; background: chocolate;}
+.menu5 ul li ul{display: none;}
+.menu5 ul li:hover ul{display: block; position: absolute;}
+
+
+.menu6{width: 680px; height: 60px; margin-top: 30px;}
+.menu6 ul{list-style: none; padding: 0;}
+.menu6 ul li{float: left;}
+.menu6 ul li a{display: block; width: 98px; height: 60px; background: url(images/anamenu.png) no-repeat; text-indent: -2000px;}
+.menu6 ul li#anasayfa a{background-position: 0 0;}
+.menu6 ul li#hakkimizda a{background-position: -80px 0;}
+.menu6 ul li#urunler a{background-position: -167px 0;}
+.menu6 ul li#menuler a{background-position: -258px 0;}
+.menu6 ul li#subeler a{background-position: -337px 0;}
+.menu6 ul li#insanK a{background-position: -440px 0;}
+.menu6 ul li#ulas a{background-position: -541px 0;}
+
+.menu6 ul li#anasayfa a:hover{background-position: 0 -66px;}
+.menu6 ul li#hakkimizda a:hover{background-position: -80px -66px;}
+.menu6 ul li#urunler a:hover{background-position: -167px -66px;}
+.menu6 ul li#menuler a:hover{background-position: -258px -66px;}
+.menu6 ul li#subeler a:hover{background-position: -337px -66px;}
+.menu6 ul li#insanK a:hover{background-position: -440px -66px;}
+.menu6 ul li#ulas a:hover{background-position: -541px -66px;}
